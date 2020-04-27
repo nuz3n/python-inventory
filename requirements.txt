@@ -1,0 +1,8 @@
+autopep8    1.5.2
+Django      2.2.12
+mysqlclient 1.4.6
+pip         19.2.3
+pycodestyle 2.5.0
+pytz        2019.3
+setuptools  41.2.0
+sqlparse    0.3.1
